@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", hbo2 dual (eng esp) www.m3ugratis.com
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Animal Planet
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/93291107f8560087b4f3976426f983d1bb184782/1003_19.m3u8
+
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/810/273/png-clipart-fox-broadcasting-company-television-channel-fox-news-fox-television-animals.png" group-title="Without category", FOX
 http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/8ac8b382f48fc2bb07801517e3384652a58de42a/618397dde53e6c6c42df88c43f0c173d692f39bc/10045_12.m3u8
 
