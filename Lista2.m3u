@@ -10,6 +10,9 @@ http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d750
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/810/273/png-clipart-fox-broadcasting-company-television-channel-fox-news-fox-television-animals.png" group-title="Without category", FOX (suele trabarse)
 http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/8ac8b382f48fc2bb07801517e3384652a58de42a/618397dde53e6c6c42df88c43f0c173d692f39bc/10045_12.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="Without category", FOX
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/eb2016c0bf3c2caca227bf41a409db0b93abdecb/10030_19.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="Without category", TNT
 http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/08d4827e6a822aaf89c78a4293daf95d4b87cdd2/10074_19.m3u8
 
