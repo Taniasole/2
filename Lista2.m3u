@@ -13,6 +13,9 @@ http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/8ac8b382f48fc2bb078015
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="Without category", TNT
 http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/08d4827e6a822aaf89c78a4293daf95d4b87cdd2/10074_19.m3u8
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo-1975-1981.png" group-title="Without category", HBO inglés
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/3f02a37050c31a3ac7f17715deffe403f13b348c/100261_9.m3u8
+
 #EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema www.m3ugratis.com
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
