@@ -34,6 +34,9 @@ http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d750
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1280px-Nicktoons_Network_logo_2009.svg.png" group-title="Without category", Nicktoons
 http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/5aee052bc3adcd6aa9aa41d7a1a8be4dfc8ef644/10062_9.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Simpsons 24/7
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/415d786b54fb16538ce970fbce887300a23f1a11/100183_9.m3u8
+
 #EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema www.m3ugratis.com
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
