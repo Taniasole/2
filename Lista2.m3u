@@ -16,6 +16,24 @@ http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d750
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo-1975-1981.png" group-title="Without category", HBO inglés
 http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/3f02a37050c31a3ac7f17715deffe403f13b348c/100261_9.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-aWnpsbWAc2uzGjv6exbA40aSIaZBJlpmIQ&usqp=CAU" group-title="Without category", Warner Channel HD
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/2506f8936e67e0fc35cc7bb02121cf639257f43c/10084_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Without category", HBO2
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/3421ce04a31b0559690f51a4fc597f94bc14757c/10044_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Without category", HBO Family
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/dc8bbc691328f1f926d116b6a111543833e1a333/10045_12.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_255.png" group-title="Without category", Paramount Channel 
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/eddffa2a780cd4709f5c6dfeece9ca48da7ca5e9/100212_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png" group-title="Without category", NatGeo Wild
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/357af392cb5a9b83a86298db4749060d5d323a16/10058_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1280px-Nicktoons_Network_logo_2009.svg.png" group-title="Without category", Nicktoons
+http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/82d6a082aab0000009d75098b7ae2a8f5320772d/5aee052bc3adcd6aa9aa41d7a1a8be4dfc8ef644/10062_9.m3u8
+
 #EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema www.m3ugratis.com
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
